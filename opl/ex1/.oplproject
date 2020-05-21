@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="&amp;#37197;&amp;#32622; 1" category="opl">
+			<ref name="ex1.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="second" category="opl">
+			<ref name="second.mod" type="model">
+			</ref>
+		</config>
+		<config default="false" name="three" category="opl">
+			<ref name="assignmentProblem.mod" type="model">
+			</ref>
+			<ref name="data1.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="four" category="opl">
+			<ref name="bingpackingProblem.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
